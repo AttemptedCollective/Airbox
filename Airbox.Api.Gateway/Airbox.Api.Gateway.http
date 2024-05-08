@@ -1,0 +1,6 @@
+@Airbox.Api.Gateway_HostAddress = http://localhost:5055
+
+GET {{Airbox.Api.Gateway_HostAddress}}
+Accept: application/json
+
+###
